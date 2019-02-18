@@ -1,8 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
-This creates a .git hidden folder with config and history tracking for the parent repository
+    This creates a .git hidden folder with config and history tracking for the parent repository
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+    it becomes an intermediate buffer in which items ready to be shipped are placed.
+    or in other words, changes that can be published/recorded.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
