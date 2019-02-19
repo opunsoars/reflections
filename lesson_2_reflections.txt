@@ -16,6 +16,9 @@ organized? How would branches help?
     backing some stuff that is an alternative method.
 
 How do the diagrams help you visualize the branch structure?
+    it helps see the parents of each commits and whether
+    some of the commits or branches are accessible from a 
+    given point in work tree.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
